@@ -107,17 +107,14 @@ You have the right to:
 
 If you have any questions about this Privacy Policy, please contact us at:
 - **Email**: [varsanim501@gmail.com]
-- **Website**: [YOUR WEBSITE URL - Optional]
 - **Developer**: Mahendra
-
-**Note**: Replace [YOUR EMAIL ADDRESS] and [YOUR WEBSITE URL] with your actual contact information before hosting.
-
-## Consent
+ ## Consent
 
 By using our app and purchasing a subscription, you consent to this Privacy Policy and agree to the subscription terms.
 
 ---
 
 **Note**: This app operates entirely offline. All calculation data remains on your device and is never transmitted to external servers. Only subscription status is verified through Google Play Billing API.
+
 
 
