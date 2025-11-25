@@ -1,116 +1,83 @@
-# Privacy Policy for Sash Window Calculator
+SASH WINDOW CUTTING LIST GENERATOR – PRIVACY POLICY
 
-**Last Updated: November 25, 2025**
+Last Updated: 25 November 2025
 
-## Introduction
+This Privacy Policy explains how Sash Window Cutting List Generator (“we”, “our”, or “the developer”) handles user information and defines the terms under which the app may be used.
 
-Sash Window Calculator ("we", "our", "us") is an offline mobile application designed for window measurement and cutting list calculations. This Privacy Policy explains what data is stored, how subscriptions work, and how your information is protected.
+1. Privacy and Data Collection
 
-## Information We Collect
+This app works fully offline.
 
-### Data Stored Locally (Offline Only)
+No personal data is collected, stored, transmitted, or shared.
 
-The app stores the following information only on your device:
+All inputs, outputs, and generated files (PDF/Excel) remain on the user’s device only.
 
-- Project names
-- Window dimensions, measurements, and calculation inputs
-- Cutting list data
-- Locally generated PDF and Excel files
-- Local subscription status (premium access flag)
+No login, analytics, tracking, or third-party services are used.
 
-**We do not collect any personal information.**
+2. Children’s Privacy
 
-### Payment Information
+This app is not intended for children under 13.
 
-- All subscription transactions are processed securely by Google Play Billing.
-- We do not collect, store, or access any payment details such as credit/debit card numbers.
-- We only receive a confirmation from Google Play indicating whether your subscription is active.
+We do not knowingly collect personal information from children.
 
-## How We Use Local Data
+3. Use of the App
 
-- To perform calculations inside the app
-- To generate cutting lists
-- To create PDF/Excel export files
-- To unlock premium features after subscription verification
+This app is a helper tool for measurements, cutting lists, and calculations.
 
-**All app features operate offline, except subscription verification.**
+It is not a certified engineering tool or professional measurement device.
 
-## Internet Usage
+Users must verify all measurements manually before cutting any material.
 
-The app uses the internet only for:
+4. Accuracy Disclaimer
 
-- Checking your subscription status through Google Play Billing
+Calculations are provided “as-is”.
 
-**No other data is uploaded or transmitted.**
+Accuracy is not guaranteed due to:
 
-## Data Storage
+Wood/material thickness variations
 
-- All project data and exports remain on your device.
-- No cloud storage is used.
-- No data is sent to external servers.
-- Subscription status is stored locally and verified through Google Play Billing.
+Different joinery and frame styles
 
-## Data Sharing
+Fabrication and construction methods
 
-- We do not share any data with third parties.
-- We do not sell any data.
-- We do not use analytics, ads, trackers, or crash-report services.
+Human judgment required
 
-## Third-Party Services
+Users are responsible for confirming all measurements before use.
 
-### Google Play Billing
+5. Liability Disclaimer
 
-Used only for:
+By using this app:
 
-- Processing subscription payments
-- Verifying your active subscription status
+The developer is not responsible for incorrect cuts, material waste, or financial loss.
 
-Google Play manages payment information securely according to its own policies.
+Users bear full responsibility for verifying calculations and outcomes.
 
-## Permissions Required
+The developer cannot control tools, machinery, or human error.
 
-- **Storage Permission**: To save PDF and Excel files to your device.
-- **File Sharing Permission**: To allow you to share exported files using other apps.
+Use is entirely at your own risk.
 
-**No additional permissions are required.**
+6. Internet Usage
 
-## Subscription Information
+Internet is used only to verify subscription status via Google Play Billing.
 
-### Subscription Details
+No other data is transmitted.
 
-- **Type**: Monthly subscription
-- **Price**: £20 per month (pricing may vary by region)
-- **Billing**: Automatic renewal via Google Play
-- **Cancellation**: Can be done anytime in Google Play → Subscriptions
-- **Refunds**: Managed according to Google Play's refund policy
+7. Data Deletion
 
-### After Cancellation
+Users can delete all local data by uninstalling the app or clearing app data in Android settings.
 
-- Your local data remains on your device.
-- Premium access ends after the current billing cycle.
+8. Updates to This Policy
 
-## Children's Privacy
+The policy may be updated occasionally.
 
-This app is not intended for children under 13. We do not knowingly collect personal data from any user.
+Continued use of the app signifies acceptance of the revised policy.
 
-## Data Deletion
+9. Contact Information
 
-You can delete all app-stored data by:
+Email: varsanim501@gmail.com
 
-- Uninstalling the app, or
-- Clearing the app data from Android settings.
+Developer: Mahii
 
-## Changes to This Policy
+10. Consent
 
-We may update this Privacy Policy occasionally. Updates will be reflected by changing the "Last Updated" date.
-
-## Contact Us
-
-If you have questions or need support:
-
-- **Email**: varsanim501@gmail.com
-- **Developer**: Mahii
-
-## Consent
-
-By using the app and purchasing a subscription, you agree to this Privacy Policy and the subscription terms.
+By using this app and purchasing a subscription, you consent to this Privacy Policy and agree to the subscription terms.
