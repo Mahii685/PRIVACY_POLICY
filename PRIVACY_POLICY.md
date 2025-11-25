@@ -1,120 +1,116 @@
 # Privacy Policy for Sash Window Calculator
 
-**Last Updated: November 19, 2025**
+**Last Updated: November 25, 2025**
 
 ## Introduction
 
-Sash Window Calculator ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application, including our subscription service.
+Sash Window Calculator ("we", "our", "us") is an offline mobile application designed for window measurement and cutting list calculations. This Privacy Policy explains what data is stored, how subscriptions work, and how your information is protected.
 
 ## Information We Collect
 
-### Data You Provide
-- **Project Names**: Any project names you enter in the app are stored locally on your device only.
-- **Calculation Data**: All window dimensions, measurements, and calculation inputs are stored locally on your device.
-- **Subscription Information**: When you purchase a subscription, we collect payment information through Google Play Billing. We do not store your payment details directly.
+### Data Stored Locally (Offline Only)
 
-### Automatically Collected Information
-- **Device Information**: We may collect basic device information (device model, Android version) for app functionality and crash reporting.
-- **App Usage**: We may collect anonymous usage statistics to improve app performance.
-- **Subscription Status**: We collect information about your subscription status to provide access to premium features.
+The app stores the following information only on your device:
+
+- Project names
+- Window dimensions, measurements, and calculation inputs
+- Cutting list data
+- Locally generated PDF and Excel files
+- Local subscription status (premium access flag)
+
+**We do not collect any personal information.**
 
 ### Payment Information
-- **Payment Processing**: All payments are processed through Google Play Billing. We do not have access to your credit card or payment details.
-- **Transaction Records**: We receive transaction confirmations from Google Play for subscription purchases and renewals.
-- **Subscription Data**: We store subscription status and expiration dates locally on your device.
 
-## How We Use Your Information
+- All subscription transactions are processed securely by Google Play Billing.
+- We do not collect, store, or access any payment details such as credit/debit card numbers.
+- We only receive a confirmation from Google Play indicating whether your subscription is active.
 
-- To provide and maintain the app's functionality
-- To manage your subscription and provide access to premium features
-- To process subscription payments through Google Play Billing
-- To improve and optimize the app experience
-- To generate PDF and Excel export files (stored locally on your device)
-- To fix bugs and technical issues
-- To send subscription-related notifications (renewal reminders, expiration notices)
+## How We Use Local Data
+
+- To perform calculations inside the app
+- To generate cutting lists
+- To create PDF/Excel export files
+- To unlock premium features after subscription verification
+
+**All app features operate offline, except subscription verification.**
+
+## Internet Usage
+
+The app uses the internet only for:
+
+- Checking your subscription status through Google Play Billing
+
+**No other data is uploaded or transmitted.**
 
 ## Data Storage
 
-- **Local Storage**: All your data (project names, calculations, cutting lists) is stored locally on your device only.
-- **No Cloud Storage**: We do not upload, sync, or store your data on any external servers.
-- **Export Files**: PDF and Excel files you create are saved in your device's Documents folder and are only accessible to you.
-- **Subscription Data**: Subscription status is stored locally and verified through Google Play Billing API.
+- All project data and exports remain on your device.
+- No cloud storage is used.
+- No data is sent to external servers.
+- Subscription status is stored locally and verified through Google Play Billing.
 
 ## Data Sharing
 
-- **We do NOT share your data** with third parties.
-- **We do NOT sell your data** to anyone.
-- **We do NOT collect personal information** for marketing purposes.
-- **Payment Processing**: Payment information is handled exclusively by Google Play Billing. We do not have access to your payment details.
+- We do not share any data with third parties.
+- We do not sell any data.
+- We do not use analytics, ads, trackers, or crash-report services.
 
 ## Third-Party Services
 
 ### Google Play Billing
-- Our app uses Google Play Billing for subscription management and payment processing.
-- Google Play handles all payment transactions securely.
-- Subscription status is verified through Google Play Billing API.
-- For more information about Google Play's privacy practices, please visit: https://policies.google.com/privacy
 
-### No Other Third-Party Services
-- This app does not use any third-party analytics, advertising, or tracking services.
-- We do not use any advertising networks.
+Used only for:
 
-## Permissions
+- Processing subscription payments
+- Verifying your active subscription status
 
-Our app requires the following permissions:
+Google Play manages payment information securely according to its own policies.
 
-- **Storage Permission**: To save PDF and Excel export files to your device's storage.
-- **File Sharing**: To allow you to share exported files via email, messaging apps, or other sharing methods.
+## Permissions Required
+
+- **Storage Permission**: To save PDF and Excel files to your device.
+- **File Sharing Permission**: To allow you to share exported files using other apps.
+
+**No additional permissions are required.**
 
 ## Subscription Information
 
 ### Subscription Details
-- **Subscription Type**: Monthly subscription
-- **Price**: £10 per month (GBP)
-- **Billing**: Automatic monthly renewal through Google Play
-- **Cancellation**: You can cancel your subscription at any time through Google Play Store settings
-- **Refund Policy**: Refunds are handled according to Google Play's refund policy
 
-### Subscription Management
-- Subscriptions are managed through Google Play Store
-- You can view, modify, or cancel your subscription in Google Play Store → Subscriptions
-- Subscription status is verified when you open the app
+- **Type**: Monthly subscription
+- **Price**: £20 per month (pricing may vary by region)
+- **Billing**: Automatic renewal via Google Play
+- **Cancellation**: Can be done anytime in Google Play → Subscriptions
+- **Refunds**: Managed according to Google Play's refund policy
+
+### After Cancellation
+
+- Your local data remains on your device.
+- Premium access ends after the current billing cycle.
 
 ## Children's Privacy
 
-Our app is not intended for children under 13 years of age. We do not knowingly collect personal information from children. Subscriptions require a valid Google Play account, which has age restrictions.
+This app is not intended for children under 13. We do not knowingly collect personal data from any user.
 
-## Changes to This Privacy Policy
+## Data Deletion
 
-We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date. For significant changes, we may also notify you through the app.
+You can delete all app-stored data by:
 
-## Your Rights
+- Uninstalling the app, or
+- Clearing the app data from Android settings.
 
-You have the right to:
-- Access your data (stored locally on your device)
-- Delete your data (by uninstalling the app or clearing app data)
-- Export your data (via PDF/Excel export features)
-- Cancel your subscription at any time through Google Play Store
-- Request a refund according to Google Play's refund policy
+## Changes to This Policy
 
-## Subscription Cancellation and Refunds
-
-- **Cancellation**: Cancel anytime through Google Play Store → Subscriptions
-- **Refunds**: Refund requests are handled by Google Play according to their refund policy
-- **Data After Cancellation**: Your local data remains on your device. Subscription access will end at the end of the current billing period.
+We may update this Privacy Policy occasionally. Updates will be reflected by changing the "Last Updated" date.
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at:
-- **Email**: [varsanim501@gmail.com]
-- **Developer**: Mahendra
- ## Consent
+If you have questions or need support:
 
-By using our app and purchasing a subscription, you consent to this Privacy Policy and agree to the subscription terms.
+- **Email**: varsanim501@gmail.com
+- **Developer**: Mahii
 
----
+## Consent
 
-**Note**: This app operates entirely offline. All calculation data remains on your device and is never transmitted to external servers. Only subscription status is verified through Google Play Billing API.
-
-
-
+By using the app and purchasing a subscription, you agree to this Privacy Policy and the subscription terms.
