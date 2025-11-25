@@ -106,7 +106,7 @@ You have the right to:
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-- **Email**: [YOUR EMAIL ADDRESS]
+- **Email**: [varsanim501@gmail.com]
 - **Website**: [YOUR WEBSITE URL - Optional]
 - **Developer**: Mahendra
 
@@ -119,4 +119,5 @@ By using our app and purchasing a subscription, you consent to this Privacy Poli
 ---
 
 **Note**: This app operates entirely offline. All calculation data remains on your device and is never transmitted to external servers. Only subscription status is verified through Google Play Billing API.
+
 
