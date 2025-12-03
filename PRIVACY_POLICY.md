@@ -1,8 +1,8 @@
-Sash Window Cut List – PRIVACY POLICY
+SASH WINDOW CUT LIST PRO – PRIVACY POLICY
 
 Last Updated: 25 November 2025
 
-This Privacy Policy explains how Sash Window Cut List (“we”, “our”, or “the developer”) handles user information and defines the terms under which the app may be used.
+This Privacy Policy explains how SASH WINDOW CUT LIST PRO (“we”, “our”, or “the developer”) handles user information and defines the terms under which the app may be used.
 
 1. Privacy and Data Collection
 
@@ -81,4 +81,5 @@ Developer: Mahii
 10. Consent
 
 By using this app and purchasing a subscription, you consent to this Privacy Policy and agree to the subscription terms.
+
 
