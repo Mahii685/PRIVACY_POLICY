@@ -1,18 +1,18 @@
 SASH WINDOW CUT LIST PRO – PRIVACY POLICY
 
-Last Updated: 25 November 2025
+Last Updated: 4 November 2025
 
 This Privacy Policy explains how SASH WINDOW CUT LIST PRO (“we”, “our”, or “the developer”) handles user information and defines the terms under which the app may be used.
 
 1. Privacy and Data Collection
 
-This app works fully offline.
+This app works primarily offline.
 
-No personal data is collected, stored, transmitted, or shared.
+No personal data is collected, stored, transmitted, or shared by the developer.
 
 All inputs, outputs, and generated files (PDF/Excel) remain on the user’s device only.
 
-No login, analytics, tracking, or third-party services are used.
+No login, analytics, tracking, or third-party services are used, except for Google Play Billing.
 
 2. Children’s Privacy
 
@@ -58,9 +58,11 @@ Use is entirely at your own risk.
 
 6. Internet Usage
 
-Internet is used only to verify subscription status via Google Play Billing.
+Active Internet Connection Required: Internet access is required to purchase a subscription, verify active subscription status, and restore purchases via Google Play Billing.
 
-No other data is transmitted.
+Offline Functionality: Once the subscription is verified, all calculator features, PDF generation, and data processing work fully offline.
+
+No other user data is transmitted to any external server.
 
 7. Data Deletion
 
@@ -81,5 +83,3 @@ Developer: Mahii
 10. Consent
 
 By using this app and purchasing a subscription, you consent to this Privacy Policy and agree to the subscription terms.
-
-
